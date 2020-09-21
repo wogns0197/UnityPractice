@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: b36d582791cd047a1bad010439d2f1c0
+  productGUID: 43b635df67a2d4601b4fa37fa5500795
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -457,7 +457,7 @@ PlayerSettings:
   ps4DownloadDataSize: 0
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
-  ps4Passcode: tzZOvGm3lwuvwd0FBQPPjK7SUWLa9Gmz
+  ps4Passcode: fVUbqixwz5ZmzKwSwUaW8iQy1XBJmvDj
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -503,7 +503,7 @@ PlayerSettings:
   psp2LiveAreaTrialPath: 
   psp2PatchChangeInfoPath: 
   psp2PatchOriginalPackage: 
-  psp2PackagePassword: CFLOd1loKFtLSrdlZ1xmSKTONvasz8hS
+  psp2PackagePassword: Z33Q99AdV9nmulZEAjqKjFutxDYHxygC
   psp2KeystoneFile: 
   psp2MemoryExpansionMode: 0
   psp2DRMType: 0
@@ -549,13 +549,7 @@ PlayerSettings:
   webGLUseEmbeddedResources: 0
   webGLUseWasm: 0
   webGLCompressionFormat: 1
-  scriptingDefineSymbols:
-    1: CROSS_PLATFORM_INPUT
-    4: CROSS_PLATFORM_INPUT;MOBILE_INPUT
-    7: CROSS_PLATFORM_INPUT;MOBILE_INPUT
-    14: MOBILE_INPUT
-    17: MOBILE_INPUT
-    20: MOBILE_INPUT
+  scriptingDefineSymbols: {}
   platformArchitecture: {}
   scriptingBackend: {}
   incrementalIl2cppBuild: {}
@@ -639,9 +633,9 @@ PlayerSettings:
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 3ac2a240-1c2e-44f5-934b-ecd6b32e5e0a
-  projectName: Soccerball
-  organizationId: jjahoo
+  cloudProjectId: 
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
